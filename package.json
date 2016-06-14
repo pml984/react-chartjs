@@ -1,6 +1,6 @@
 {
-  "name": "react-chartjs",
-  "version": "0.7.3",
+  "name": "safe-framework-react-chartjs",
+  "version": "2.0.2",
   "description": "react charting components using the chartjs lib",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhudson8/react-chartjs"
+    "url": "https://github.com/pml984/react-chartjs"
   },
   "keywords": [
     "react",
