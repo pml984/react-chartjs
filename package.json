@@ -1,6 +1,6 @@
 {
   "name": "safe-framework-react-chartjs",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "react charting components using the chartjs lib",
   "main": "index.js",
   "scripts": {
